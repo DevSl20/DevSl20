@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">A passionate and driven Bachelor of Computer Applications (BCA) graduate skilled in web-development, programming.Experienced more in front-end development and project-work, Skilled in VsCode, GitHub, and MS office, also currently enhancing skills in the MERN stack (MongoDB, Express.js, React, Node.js) to develop <br>dynamic and scalable web applications.</p>
+<p align="left">A passionate and driven Bachelor of Computer Applications (BCA) graduate skilled in web-development, programming.Experienced more in front-end development and project-work, Skilled in VsCode, GitHub, and MS office, also currently enhancing skills in the MERN stack (MongoDB, Express.js, React, Node.js) to develop dynamic and scalable web applications.</p>
 
 ###
 

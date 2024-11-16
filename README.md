@@ -1,2 +1,2 @@
-![readme_banner](https://github.com/user-attachments/assets/6ce02b58-92e4-4543-a345-cc6fe97c2943)
+![github-header-image (6)](https://github.com/user-attachments/assets/ef9f7155-e40b-46b1-9197-12b43e80e897)
 
